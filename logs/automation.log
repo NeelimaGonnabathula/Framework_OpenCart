@@ -1,0 +1,42 @@
+18:41:11.130 [main] INFO  TestCases.TC_002_LoginTest - **** Starting T_002_LoginTest ****
+18:41:12.015 [main] INFO  TestCases.TC_002_LoginTest - clicked on login
+18:42:28.191 [main] INFO  TestCases.TC_002_LoginTest - **** Starting T_002_LoginTest ****
+18:42:28.983 [main] INFO  TestCases.TC_002_LoginTest - clicked on login
+18:47:35.268 [main] INFO  TestCases.TC_002_LoginTest - **** Starting T_002_LoginTest ****
+18:47:36.095 [main] INFO  TestCases.TC_002_LoginTest - clicked on login
+10:47:45.499 [main] INFO  TestCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegistrationTest **** 
+10:47:45.647 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on myaccount
+10:47:46.130 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Registration
+10:47:46.492 [main] INFO  TestCases.TC_001_AccountRegistrationTest - set password
+10:47:46.553 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Subscribe
+10:47:46.625 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on setPrivacyPolicy
+10:47:46.694 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on continue
+10:49:35.423 [main] INFO  TestCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegistrationTest **** 
+10:49:35.546 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on myaccount
+10:49:36.036 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Registration
+10:49:36.466 [main] INFO  TestCases.TC_001_AccountRegistrationTest - set password
+10:49:36.537 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Subscribe
+10:49:36.610 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on setPrivacyPolicy
+10:49:36.705 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on continue
+17:16:21.820 [main] INFO  TestCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegistrationTest **** 
+17:16:21.955 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:16:22.394 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Registration
+17:16:22.667 [main] INFO  TestCases.TC_001_AccountRegistrationTest - set password
+17:16:22.715 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Subscribe
+17:16:22.757 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on setPrivacyPolicy
+17:16:22.807 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on continue
+17:42:43.223 [main] INFO  TestCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegistrationTest **** 
+17:42:43.342 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:42:43.790 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Registration
+17:42:44.101 [main] INFO  TestCases.TC_001_AccountRegistrationTest - set password
+17:42:44.154 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Subscribe
+17:42:44.203 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on setPrivacyPolicy
+17:42:44.268 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on continue
+17:48:53.115 [main] INFO  TestCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegistrationTest **** 
+17:48:53.241 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on myaccount
+17:48:53.705 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Registration
+17:48:54.054 [main] INFO  TestCases.TC_001_AccountRegistrationTest - set password
+17:48:54.102 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on Subscribe
+17:48:54.151 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on setPrivacyPolicy
+17:48:54.212 [main] INFO  TestCases.TC_001_AccountRegistrationTest - clicked on continue
+17:51:47.140 [main] INFO  TestCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
